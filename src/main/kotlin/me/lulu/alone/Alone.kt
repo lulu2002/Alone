@@ -1,4 +1,4 @@
-package com.yourname.projectname
+package me.lulu.alone
 
 import br.com.devsrsouza.kotlinbukkitapi.architecture.KotlinPlugin
 import br.com.devsrsouza.kotlinbukkitapi.dsl.command.arguments.player
@@ -11,5 +11,5 @@ import br.com.devsrsouza.kotlinbukkitapi.extensions.text.textOf
 import org.bukkit.ChatColor
 
 class Alone : KotlinPlugin() {
-    
+
 }
